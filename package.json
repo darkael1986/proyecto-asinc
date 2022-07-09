@@ -1,0 +1,27 @@
+{
+  "name": "proyecto-asinc",
+  "version": "1.0.0",
+  "description": "asincronismo con JavaScrip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkael1986/proyecto-asinc.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Asincronismo",
+    "API"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darkael1986/proyecto-asinc/issues"
+  },
+  "homepage": "https://github.com/darkael1986/proyecto-asinc#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  }
+}
